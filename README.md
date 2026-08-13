@@ -1,17 +1,19 @@
 # orange_flutter_pokedex
 
-A new Flutter project.
+Just a pokedex app using Flutter for learning purpose.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+<div align="center">
+  <img src="screenshots/screenshot1.png" width="300" alt="Screenshot 1"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screenshots/screenshot2.png" width="300" alt="Screenshot 2"/>
+</div>
 
-A few resources to get you started if this is your first Flutter project:
+## Video Demonstration
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div align="center">
+  <video src="screenshots/demo_video.mp4" width="600" controls>
+    Your browser does not support the video tag.
+  </video>
+</div>
